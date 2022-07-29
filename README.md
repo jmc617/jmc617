@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [bedbot](https://github.com/jmc617/twitch_bedbot_)
 
-- 🌱 Next, I plan to learn about ** Redis, Java, & testing in JavaScript **
+- 🌱 Next, I plan to learn about **Redis, Java, & testing in JavaScript**
 
 - 📝 The last article I wrote was [https://www.educative.io/answers/what-is-class-inheritance-in-javascript](https://www.educative.io/answers/what-is-class-inheritance-in-javascript)
 
